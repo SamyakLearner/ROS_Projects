@@ -1,0 +1,1 @@
+These are just practise projects to get the basic understanding of ROS.
